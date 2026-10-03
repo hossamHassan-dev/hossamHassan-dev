@@ -4,69 +4,96 @@
   <img alt="Hossam Hassan — Backend Developer. System design, RESTful APIs, Node.js, NestJS, TypeScript, BullMQ, PostgreSQL, MongoDB, Redis, Docker, AWS and AI-assisted development." src="./light.svg" width="100%">
 </picture>
 
-## About me
+## Backend development & system design
 
-I'm Hossam Hassan, a backend developer focused on API engineering, database design and system design. My core stack is Node.js, NestJS and TypeScript, with PostgreSQL, MongoDB and Redis.
+I'm **Hossam Hassan**, a backend developer working with **Node.js and TypeScript**. My focus is API engineering, data modeling, background processing and performance. I also have foundational knowledge of AI-assisted delivery and backend AI integrations.
 
-I approach system design by starting with requirements, constraints and back-of-the-envelope estimates. My technical interests span background processing, caching, performance and the infrastructure that supports reliable backend services.
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Backend & APIs</h3>
+      <p>RESTful APIs, authentication and clear API contracts.</p>
+      <p><code>Node.js</code> <code>NestJS</code> <code>Express</code> <code>TypeScript</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Data & performance</h3>
+      <p>Schema design, query optimization, caching and worker queues.</p>
+      <p><code>PostgreSQL</code> <code>MongoDB</code> <code>Redis</code> <code>BullMQ</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Architecture & delivery</h3>
+      <p>Requirements-first design, testing, CI/CD and cloud foundations.</p>
+      <p><code>System Design</code> <code>Docker</code> <code>GitHub Actions</code> <code>AWS</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>AI & developer workflows</h3>
+      <p>Spec-driven development and AI integration foundations.</p>
+      <p><code>LLM APIs</code> <code>RAG</code> <code>MCP</code> <code>Tool Calling</code></p>
+    </td>
+  </tr>
+</table>
 
-I also have foundational knowledge of AI-assisted delivery and AI-powered backend features, including LLM APIs, semantic search, RAG, tool calling and MCP.
+**My approach:** requirements & constraints → API contracts & data models → implementation → tests & review → deployment.
 
-## Technical toolkit
-
-| Area | Technologies |
-| --- | --- |
-| Languages | TypeScript, JavaScript |
-| Backend | Node.js, NestJS, Express |
-| Databases & geospatial | PostgreSQL, MongoDB, PostGIS |
-| Data access | Prisma, Sequelize, Mongoose |
-| Queues & caching | BullMQ, Redis |
-| Containers & delivery | Docker, Docker Compose, GitHub Actions, CI/CD |
-| Cloud | AWS: compute, storage, databases, networking and containers |
-| Frontend | HTML, CSS, Tailwind CSS; basic React |
-| AI foundations | LLM APIs, embeddings, semantic search, RAG, tool calling, MCP; pgvector concepts |
-
-## AI-assisted development & AI backend foundations
-
-- **Spec-driven delivery:** turn requirements into user stories, API contracts, schema plans, auth and validation rules, acceptance criteria and implementation tasks before using coding agents.
-- **Context engineering:** organize architecture documentation, database rules, API conventions, testing strategy, agent instructions and reusable skills as project context.
-- **Agent workflows:** understand local and cloud coding agents, issue-to-PR delivery, parallel tasks, isolated branches and CI checks. Keep responsibility for design decisions, diff review and verification with the developer.
-- **LLM API integration:** chat endpoints, message roles, streaming, conversation history, token and cost tracking, rate limits, retries and timeouts.
-- **Semantic search & RAG:** embeddings, similarity search, document ingestion, chunking, metadata, retrieval, ranking, answer generation and citations; familiarity with vector databases and pgvector concepts.
-- **Tool calling & MCP:** connect agents to backend tools and understand how to expose tools through MCP servers, with permission checks, approval flows and action logs.
-- **AI delivery concerns:** prompt versioning, logging, monitoring, model fallbacks, evaluation basics, tenant isolation, prompt injection awareness and deployment considerations.
-
-## Engineering focus
-
-- **System design:** requirements analysis, constraints, capacity estimates, microservices, synchronous and asynchronous communication, and multi-region architecture.
-- **API design:** RESTful APIs, API contracts, HTTP semantics, sessions, JWT and refresh-token authentication, and rate limiting.
-- **Data engineering:** schema design, SQL vs. NoSQL trade-offs, indexing, query optimization, migrations, transactions and isolation levels.
-- **Background processing:** worker queues, scheduled jobs, message queues and Redis caching strategies.
-- **Backend features:** payment integration and location-based queries with PostGIS and GiST indexes.
-- **Application structure:** MVC, service layers, clean architecture, clean functions and SOLID fundamentals.
-
-## Testing & delivery
-
-- Unit and integration testing, mocking and stubs, and integration vs. E2E testing concepts.
-- Git workflows, GitHub Actions pipelines and development, staging and production environments.
-- Container-based deployment with Docker and Docker Compose.
-- Structured logging, monitoring, error handling, benchmarking and performance testing.
+## Explore my toolkit
 
 <details>
-<summary><strong>Cloud, networking & computer science foundations</strong></summary>
+<summary><strong>Backend, architecture & databases</strong></summary>
 
-### AWS
-
-EC2, S3, CloudFront, RDS, DynamoDB, ElastiCache, ECS, VPC, Auto Scaling and load balancing.
-
-### Networking
-
-TCP vs. UDP, DNS, HTTP, reverse proxies, load balancers, rate limiting, WebSockets vs. HTTP polling, and client/server/database caching.
-
-### Data structures & algorithms
-
-Big O, arrays, hash tables, stacks, queues, BFS/DFS, sorting, two-pointer and sliding-window techniques. Practical backend applications include grouping, aggregation, parsing and caching logic.
+- **Languages & frameworks:** JavaScript, TypeScript, Node.js, NestJS and Express.
+- **API engineering:** HTTP, REST, status codes, API contracts, validation, pagination, filtering, sessions, JWT, refresh tokens and rate limiting.
+- **Database tooling:** PostgreSQL, MongoDB, Mongoose, Prisma and Sequelize; geospatial queries with PostGIS and GiST indexes.
+- **Data design:** SQL vs. NoSQL trade-offs, schemas, indexes, query optimization, migrations, schema evolution, transactions, isolation levels and bottleneck analysis.
+- **System design:** requirements, constraints, back-of-the-envelope estimates, microservices, synchronous/asynchronous communication and multi-region architecture concepts.
+- **Application structure:** MVC, service layers, clean architecture, clean functions and SOLID fundamentals.
+- **Backend features:** payment integration, BullMQ background jobs, worker queues and Redis caching strategies.
 
 </details>
 
-[Explore my repositories](https://github.com/hossamHassan-dev?tab=repositories)
+<details>
+<summary><strong>Testing, deployment & AWS</strong></summary>
+
+- **Testing:** unit and integration tests, mocking and stubs, integration vs. E2E concepts, benchmarking and performance testing.
+- **Delivery:** Git workflows, GitHub Actions, CI/CD, Docker, Docker Compose and development/staging/production environments.
+- **Observability:** structured logging, monitoring, error handling and backend debugging.
+- **AWS foundations:** EC2, S3, CloudFront, RDS, DynamoDB, ElastiCache, ECS, VPC, Auto Scaling and load balancing.
+
+</details>
+
+<details>
+<summary><strong>AI-assisted development & AI backend foundations</strong></summary>
+
+My AI knowledge covers development workflows and the foundations of integrating AI into backend applications.
+
+- **Specs as the source of truth:** requirements, user stories, API contracts, schema plans, auth/validation rules, acceptance criteria and task breakdowns.
+- **Context engineering:** architecture docs, database rules, API conventions, testing strategy, agent instructions, project knowledge bases and reusable skills.
+- **Coding agents:** local/cloud agents, issue-to-PR workflows, parallel tasks, isolated branches and CI checks, with human responsibility for decisions, diff review and verification.
+- **LLM APIs:** chat endpoints, message roles, streaming, conversation history, token/cost tracking, rate limits, retries and timeouts.
+- **Semantic search & RAG:** embeddings, vector similarity, document ingestion, extraction, chunking, metadata, retrieval, ranking, answer generation and citations; vector database and pgvector concepts.
+- **Tools & MCP:** tool calling, backend tools, MCP client/server concepts, permission checks, approval flows and action logs.
+- **AI delivery concerns:** prompt versioning, logging, monitoring, evaluation basics, model fallbacks, tenant isolation, prompt injection awareness and deployment considerations.
+
+</details>
+
+<details>
+<summary><strong>Networking, data structures & algorithms</strong></summary>
+
+- **Networking:** TCP vs. UDP, DNS, HTTP, reverse proxies, load balancers and WebSockets vs. HTTP polling.
+- **Caching:** client, server and database caching, Redis strategies and rate limiting.
+- **DSA:** Big O, arrays, hash tables, stacks, queues, BFS/DFS, sorting, two-pointer and sliding-window techniques.
+- **Backend applications:** grouping, aggregation, parsing, data lookups and caching logic.
+
+</details>
+
+<details>
+<summary><strong>Frontend foundations</strong></summary>
+
+HTML, CSS, JavaScript, TypeScript and Tailwind CSS, with **basic React** knowledge.
+
+</details>
+
+---
+
+[**Explore my repositories →**](https://github.com/hossamHassan-dev?tab=repositories)
