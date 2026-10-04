@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="125" height="48" viewBox="0 0 125 48" role="img" aria-label="BullMQ">
+<title>BullMQ</title>
+<defs><linearGradient id="surface" x2="0" y2="1"><stop stop-color="#FFFFFF"/><stop offset="1" stop-color="#F7FAFD"/></linearGradient><linearGradient id="edge"><stop stop-color="#EE695A" stop-opacity=".35"/><stop offset="1" stop-color="#EE695A" stop-opacity=".04"/></linearGradient></defs>
+<rect x=".5" y="2.5" width="116" height="39" rx="10" fill="url(#surface)" stroke="#e2d0d4"/>
+<path d="M11 3H106" stroke="url(#edge)"/>
+<rect x="7" y="6" width="34" height="32" rx="8" fill="#EE695A" fill-opacity=".055"/>
+<svg x="13" y="11" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#cd5e55" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="3" width="6" height="5" rx="1.4"/><rect x="2" y="10" width="6" height="5" rx="1.4"/><rect x="2" y="17" width="6" height="5" rx="1.4"/><path d="M11 12h11m-4-4 4 4-4 4M12 5h7M12 19h7"/></svg>
+<text x="51" y="27" font-family="'Segoe UI',Arial,sans-serif" font-size="14" font-weight="600" fill="#182638">BullMQ</text>
+</svg>

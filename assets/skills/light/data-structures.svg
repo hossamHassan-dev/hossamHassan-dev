@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="174" height="48" viewBox="0 0 174 48" role="img" aria-label="Data Structures">
+<title>Data Structures</title>
+<defs><linearGradient id="surface" x2="0" y2="1"><stop stop-color="#FFFFFF"/><stop offset="1" stop-color="#F7FAFD"/></linearGradient><linearGradient id="edge"><stop stop-color="#72C8C0" stop-opacity=".35"/><stop offset="1" stop-color="#72C8C0" stop-opacity=".04"/></linearGradient></defs>
+<rect x=".5" y="2.5" width="165" height="39" rx="10" fill="url(#surface)" stroke="#cbe1e7"/>
+<path d="M11 3H155" stroke="url(#edge)"/>
+<rect x="7" y="6" width="34" height="32" rx="8" fill="#72C8C0" fill-opacity=".055"/>
+<svg x="13" y="11" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#63afac" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="4" r="3"/><circle cx="4" cy="19" r="3"/><circle cx="20" cy="19" r="3"/><path d="M12 7v5m0 0-8 4m8-4 8 4"/></svg>
+<text x="51" y="27" font-family="'Segoe UI',Arial,sans-serif" font-size="14" font-weight="600" fill="#182638">Data Structures</text>
+</svg>

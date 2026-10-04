@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="105" height="48" viewBox="0 0 105 48" role="img" aria-label="RAG">
+<title>RAG</title>
+<defs><linearGradient id="surface" x2="0" y2="1"><stop stop-color="#0D1728"/><stop offset="1" stop-color="#111D30"/></linearGradient><linearGradient id="edge"><stop stop-color="#A78BFA" stop-opacity=".35"/><stop offset="1" stop-color="#A78BFA" stop-opacity=".04"/></linearGradient></defs>
+<rect x=".5" y="2.5" width="96" height="39" rx="10" fill="url(#surface)" stroke="#35355f"/>
+<path d="M11 3H86" stroke="url(#edge)"/>
+<rect x="7" y="6" width="34" height="32" rx="8" fill="#A78BFA" fill-opacity=".07"/>
+<svg x="13" y="11" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#A78BFA" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round"><path d="M3 3h11v16H3zM6 7h5M6 11h3"/><circle cx="16" cy="15" r="4"/><path d="m19 18 3 3"/></svg>
+<text x="51" y="27" font-family="'Segoe UI',Arial,sans-serif" font-size="14" font-weight="600" fill="#E8EDF6">RAG</text>
+</svg>

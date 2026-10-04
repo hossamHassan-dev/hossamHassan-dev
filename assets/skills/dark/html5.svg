@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="123" height="48" viewBox="0 0 123 48" role="img" aria-label="HTML5">
+<title>HTML5</title>
+<defs><linearGradient id="surface" x2="0" y2="1"><stop stop-color="#0D1728"/><stop offset="1" stop-color="#111D30"/></linearGradient><linearGradient id="edge"><stop stop-color="#F16A41" stop-opacity=".35"/><stop offset="1" stop-color="#F16A41" stop-opacity=".04"/></linearGradient></defs>
+<rect x=".5" y="2.5" width="114" height="39" rx="10" fill="url(#surface)" stroke="#482d2e"/>
+<path d="M11 3H104" stroke="url(#edge)"/>
+<rect x="7" y="6" width="34" height="32" rx="8" fill="#F16A41" fill-opacity=".07"/>
+<svg x="13" y="11" width="22" height="22" viewBox="0 0 24 24" fill="#F16A41"><path d="M1.5 0h21l-1.91 21.563L11.977 24l-8.564-2.438L1.5 0zm7.031 9.75l-.232-2.718 10.059.003.23-2.622L5.412 4.41l.698 8.01h9.126l-.326 3.426-2.91.804-2.955-.81-.188-2.11H6.248l.33 4.171L12 19.351l5.379-1.443.744-8.157H8.531z" /></svg>
+<text x="51" y="27" font-family="'Segoe UI',Arial,sans-serif" font-size="14" font-weight="600" fill="#E8EDF6">HTML5</text>
+</svg>

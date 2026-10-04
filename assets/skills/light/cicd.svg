@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="115" height="48" viewBox="0 0 115 48" role="img" aria-label="CI/CD">
+<title>CI/CD</title>
+<defs><linearGradient id="surface" x2="0" y2="1"><stop stop-color="#FFFFFF"/><stop offset="1" stop-color="#F7FAFD"/></linearGradient><linearGradient id="edge"><stop stop-color="#87C69D" stop-opacity=".35"/><stop offset="1" stop-color="#87C69D" stop-opacity=".04"/></linearGradient></defs>
+<rect x=".5" y="2.5" width="106" height="39" rx="10" fill="url(#surface)" stroke="#cfe0e0"/>
+<path d="M11 3H96" stroke="url(#edge)"/>
+<rect x="7" y="6" width="34" height="32" rx="8" fill="#87C69D" fill-opacity=".055"/>
+<svg x="13" y="11" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#75ae8e" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round"><path d="M19 8a8 8 0 0 0-14-2L2 9m0-6v6h6M5 16a8 8 0 0 0 14 2l3-3m0 6v-6h-6"/></svg>
+<text x="51" y="27" font-family="'Segoe UI',Arial,sans-serif" font-size="14" font-weight="600" fill="#182638">CI/CD</text>
+</svg>

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="204" height="48" viewBox="0 0 204 48" role="img" aria-label="Context Engineering">
+<title>Context Engineering</title>
+<defs><linearGradient id="surface" x2="0" y2="1"><stop stop-color="#0D1728"/><stop offset="1" stop-color="#111D30"/></linearGradient><linearGradient id="edge"><stop stop-color="#BBA4F2" stop-opacity=".35"/><stop offset="1" stop-color="#BBA4F2" stop-opacity=".04"/></linearGradient></defs>
+<rect x=".5" y="2.5" width="195" height="39" rx="10" fill="url(#surface)" stroke="#3a3c5d"/>
+<path d="M11 3H185" stroke="url(#edge)"/>
+<rect x="7" y="6" width="34" height="32" rx="8" fill="#BBA4F2" fill-opacity=".07"/>
+<svg x="13" y="11" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#BBA4F2" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round"><path d="M3 3h14v16H3zM7 7h6M7 11h6M7 15h3M20 6h2v16H7v-1"/></svg>
+<text x="51" y="27" font-family="'Segoe UI',Arial,sans-serif" font-size="14" font-weight="600" fill="#E8EDF6">Context Engineering</text>
+</svg>

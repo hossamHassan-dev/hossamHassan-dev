@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="132" height="48" viewBox="0 0 132 48" role="img" aria-label="pgvector">
+<title>pgvector</title>
+<defs><linearGradient id="surface" x2="0" y2="1"><stop stop-color="#FFFFFF"/><stop offset="1" stop-color="#F7FAFD"/></linearGradient><linearGradient id="edge"><stop stop-color="#7BA6E7" stop-opacity=".35"/><stop offset="1" stop-color="#7BA6E7" stop-opacity=".04"/></linearGradient></defs>
+<rect x=".5" y="2.5" width="123" height="39" rx="10" fill="url(#surface)" stroke="#cddaee"/>
+<path d="M11 3H113" stroke="url(#edge)"/>
+<rect x="7" y="6" width="34" height="32" rx="8" fill="#7BA6E7" fill-opacity=".055"/>
+<svg x="13" y="11" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#6b92cd" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round"><path d="M4 20V4m0 16h16M4 20 17 7m-5 0h5v5"/><circle cx="9" cy="8" r="1"/><circle cx="15" cy="16" r="1"/><circle cx="20" cy="4" r="1"/></svg>
+<text x="51" y="27" font-family="'Segoe UI',Arial,sans-serif" font-size="14" font-weight="600" fill="#182638">pgvector</text>
+</svg>
