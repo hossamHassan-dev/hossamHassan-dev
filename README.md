@@ -6,38 +6,83 @@
 
 ## Backend development & system design
 
-I'm **Hossam Hassan**, a backend developer working with **Node.js and TypeScript**. My focus is API engineering, data modeling, background processing and performance. I also have foundational knowledge of AI-assisted delivery and backend AI integrations.
+I'm **Hossam Hassan**. I build backend APIs with **Node.js, NestJS and TypeScript**, with a focus on data modeling, background processing and performance. I also have foundational knowledge of AI-assisted development and AI integrations.
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Backend & APIs</h3>
-      <p>RESTful APIs, authentication and clear API contracts.</p>
-      <p><code>Node.js</code> <code>NestJS</code> <code>Express</code> <code>TypeScript</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Data & performance</h3>
-      <p>Schema design, query optimization, caching and worker queues.</p>
-      <p><code>PostgreSQL</code> <code>MongoDB</code> <code>Redis</code> <code>BullMQ</code></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Architecture & delivery</h3>
-      <p>Requirements-first design, testing, CI/CD and cloud foundations.</p>
-      <p><code>System Design</code> <code>Docker</code> <code>GitHub Actions</code> <code>AWS</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>AI & developer workflows</h3>
-      <p>Spec-driven development and AI integration foundations.</p>
-      <p><code>LLM APIs</code> <code>RAG</code> <code>MCP</code> <code>Tool Calling</code></p>
-    </td>
-  </tr>
-</table>
+## Technology stack
 
-**My approach:** requirements & constraints → API contracts & data models → implementation → tests & review → deployment.
+### Backend & APIs
 
-## Explore my toolkit
+<p>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/skills/dark/nodejs.svg"><source media="(prefers-color-scheme: light)" srcset="./assets/skills/light/nodejs.svg"><img src="./assets/skills/light/nodejs.svg" alt="Node.js" height="48"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/skills/dark/nestjs.svg"><source media="(prefers-color-scheme: light)" srcset="./assets/skills/light/nestjs.svg"><img src="./assets/skills/light/nestjs.svg" alt="NestJS" height="48"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/skills/dark/express.svg"><source media="(prefers-color-scheme: light)" srcset="./assets/skills/light/express.svg"><img src="./assets/skills/light/express.svg" alt="Express" height="48"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/skills/dark/bullmq.svg"><source media="(prefers-color-scheme: light)" srcset="./assets/skills/light/bullmq.svg"><img src="./assets/skills/light/bullmq.svg" alt="BullMQ" height="48"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/skills/dark/rest-apis.svg"><source media="(prefers-color-scheme: light)" srcset="./assets/skills/light/rest-apis.svg"><img src="./assets/skills/light/rest-apis.svg" alt="REST APIs" height="48"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/skills/dark/jwt.svg"><source media="(prefers-color-scheme: light)" srcset="./assets/skills/light/jwt.svg"><img src="./assets/skills/light/jwt.svg" alt="JWT" height="48"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/skills/dark/websockets.svg"><source media="(prefers-color-scheme: light)" srcset="./assets/skills/light/websockets.svg"><img src="./assets/skills/light/websockets.svg" alt="WebSockets" height="48"></picture>
+</p>
+
+### Databases & persistence
+
+<p>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/skills/dark/postgresql.svg"><source media="(prefers-color-scheme: light)" srcset="./assets/skills/light/postgresql.svg"><img src="./assets/skills/light/postgresql.svg" alt="PostgreSQL" height="48"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/skills/dark/mongodb.svg"><source media="(prefers-color-scheme: light)" srcset="./assets/skills/light/mongodb.svg"><img src="./assets/skills/light/mongodb.svg" alt="MongoDB" height="48"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/skills/dark/mongoose.svg"><source media="(prefers-color-scheme: light)" srcset="./assets/skills/light/mongoose.svg"><img src="./assets/skills/light/mongoose.svg" alt="Mongoose" height="48"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/skills/dark/prisma.svg"><source media="(prefers-color-scheme: light)" srcset="./assets/skills/light/prisma.svg"><img src="./assets/skills/light/prisma.svg" alt="Prisma" height="48"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/skills/dark/sequelize.svg"><source media="(prefers-color-scheme: light)" srcset="./assets/skills/light/sequelize.svg"><img src="./assets/skills/light/sequelize.svg" alt="Sequelize" height="48"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/skills/dark/redis.svg"><source media="(prefers-color-scheme: light)" srcset="./assets/skills/light/redis.svg"><img src="./assets/skills/light/redis.svg" alt="Redis" height="48"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/skills/dark/postgis.svg"><source media="(prefers-color-scheme: light)" srcset="./assets/skills/light/postgis.svg"><img src="./assets/skills/light/postgis.svg" alt="PostGIS" height="48"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/skills/dark/pgvector.svg"><source media="(prefers-color-scheme: light)" srcset="./assets/skills/light/pgvector.svg"><img src="./assets/skills/light/pgvector.svg" alt="pgvector" height="48"></picture>
+</p>
+
+### Cloud & delivery
+
+<p>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/skills/dark/docker.svg"><source media="(prefers-color-scheme: light)" srcset="./assets/skills/light/docker.svg"><img src="./assets/skills/light/docker.svg" alt="Docker" height="48"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/skills/dark/docker-compose.svg"><source media="(prefers-color-scheme: light)" srcset="./assets/skills/light/docker-compose.svg"><img src="./assets/skills/light/docker-compose.svg" alt="Docker Compose" height="48"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/skills/dark/git.svg"><source media="(prefers-color-scheme: light)" srcset="./assets/skills/light/git.svg"><img src="./assets/skills/light/git.svg" alt="Git" height="48"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/skills/dark/github-actions.svg"><source media="(prefers-color-scheme: light)" srcset="./assets/skills/light/github-actions.svg"><img src="./assets/skills/light/github-actions.svg" alt="GitHub Actions" height="48"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/skills/dark/aws.svg"><source media="(prefers-color-scheme: light)" srcset="./assets/skills/light/aws.svg"><img src="./assets/skills/light/aws.svg" alt="AWS" height="48"></picture>
+</p>
+
+### Languages & web
+
+<p>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/skills/dark/typescript.svg"><source media="(prefers-color-scheme: light)" srcset="./assets/skills/light/typescript.svg"><img src="./assets/skills/light/typescript.svg" alt="TypeScript" height="48"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/skills/dark/javascript.svg"><source media="(prefers-color-scheme: light)" srcset="./assets/skills/light/javascript.svg"><img src="./assets/skills/light/javascript.svg" alt="JavaScript" height="48"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/skills/dark/html5.svg"><source media="(prefers-color-scheme: light)" srcset="./assets/skills/light/html5.svg"><img src="./assets/skills/light/html5.svg" alt="HTML5" height="48"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/skills/dark/css.svg"><source media="(prefers-color-scheme: light)" srcset="./assets/skills/light/css.svg"><img src="./assets/skills/light/css.svg" alt="CSS" height="48"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/skills/dark/tailwindcss.svg"><source media="(prefers-color-scheme: light)" srcset="./assets/skills/light/tailwindcss.svg"><img src="./assets/skills/light/tailwindcss.svg" alt="Tailwind CSS" height="48"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/skills/dark/react.svg"><source media="(prefers-color-scheme: light)" srcset="./assets/skills/light/react.svg"><img src="./assets/skills/light/react.svg" alt="React (basics)" height="48"></picture>
+</p>
+
+### AI foundations
+
+<p>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/skills/dark/llm-apis.svg"><source media="(prefers-color-scheme: light)" srcset="./assets/skills/light/llm-apis.svg"><img src="./assets/skills/light/llm-apis.svg" alt="LLM APIs" height="48"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/skills/dark/rag.svg"><source media="(prefers-color-scheme: light)" srcset="./assets/skills/light/rag.svg"><img src="./assets/skills/light/rag.svg" alt="RAG" height="48"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/skills/dark/mcp.svg"><source media="(prefers-color-scheme: light)" srcset="./assets/skills/light/mcp.svg"><img src="./assets/skills/light/mcp.svg" alt="MCP" height="48"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/skills/dark/embeddings.svg"><source media="(prefers-color-scheme: light)" srcset="./assets/skills/light/embeddings.svg"><img src="./assets/skills/light/embeddings.svg" alt="Embeddings" height="48"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/skills/dark/tool-calling.svg"><source media="(prefers-color-scheme: light)" srcset="./assets/skills/light/tool-calling.svg"><img src="./assets/skills/light/tool-calling.svg" alt="Tool Calling" height="48"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/skills/dark/context-engineering.svg"><source media="(prefers-color-scheme: light)" srcset="./assets/skills/light/context-engineering.svg"><img src="./assets/skills/light/context-engineering.svg" alt="Context Engineering" height="48"></picture>
+</p>
+
+### Engineering foundations
+
+<p>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/skills/dark/system-design.svg"><source media="(prefers-color-scheme: light)" srcset="./assets/skills/light/system-design.svg"><img src="./assets/skills/light/system-design.svg" alt="System Design" height="48"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/skills/dark/microservices.svg"><source media="(prefers-color-scheme: light)" srcset="./assets/skills/light/microservices.svg"><img src="./assets/skills/light/microservices.svg" alt="Microservices" height="48"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/skills/dark/data-structures.svg"><source media="(prefers-color-scheme: light)" srcset="./assets/skills/light/data-structures.svg"><img src="./assets/skills/light/data-structures.svg" alt="Data Structures" height="48"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/skills/dark/testing.svg"><source media="(prefers-color-scheme: light)" srcset="./assets/skills/light/testing.svg"><img src="./assets/skills/light/testing.svg" alt="Testing" height="48"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/skills/dark/networking.svg"><source media="(prefers-color-scheme: light)" srcset="./assets/skills/light/networking.svg"><img src="./assets/skills/light/networking.svg" alt="Networking" height="48"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/skills/dark/cicd.svg"><source media="(prefers-color-scheme: light)" srcset="./assets/skills/light/cicd.svg"><img src="./assets/skills/light/cicd.svg" alt="CI/CD" height="48"></picture>
+</p>
+
+---
+
+**How I work:** requirements & constraints → API contracts & data models → implementation → tests & review → deployment.
+
+## A closer look
 
 <details>
 <summary><strong>Backend, architecture & databases</strong></summary>
